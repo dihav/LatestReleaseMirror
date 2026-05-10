@@ -12,3 +12,5 @@ GFW-knocker/MahsaNG
 bia-pain-bache/BPB-Worker-Panel
 # 5. No filter – keep all assets from the release
 2dust/v2rayng
+# 6. No filter – keep all assets from the release
+sinavm/melishekan
