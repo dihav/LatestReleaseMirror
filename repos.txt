@@ -4,13 +4,3 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
-# 2. No filter – keep all assets from the release
-byJoey/cfnew
-# 3. No filter – keep all assets from the release
-GFW-knocker/MahsaNG
-# 4. No filter – keep all assets from the release
-bia-pain-bache/BPB-Worker-Panel
-# 5. No filter – keep all assets from the release
-2dust/v2rayng
-# 6. No filter – keep all assets from the release
-sinavm/melishekan/releases/tag/v1.0
